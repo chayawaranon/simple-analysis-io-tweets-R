@@ -6,7 +6,7 @@ This project is show some visualization and analyte about IO twitter in thailand
 
 The number of twitter accounts io It was create in large numbers during the year 2019, when there is a significant political event in Thailand.
 
-## Moment with the most tweets
+## The distribution of tweets
 ![](plot/Rplot-TimeWithMostPeopleTweet.png)
 
 As you can see from Histogram, Most tweeting times are operating hours from 8:00 AM to 16 PM, meaning that IOs are active at the same time as normal working hours.
