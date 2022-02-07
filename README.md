@@ -1,4 +1,4 @@
-# IO twitter account visualization with R
+# simple-analysis-IOTweets-R
 This project will show some simple visualization and simple analysis about IO twitter account in thailand.
 
 ## How many IO Twitter accounts are created each year
